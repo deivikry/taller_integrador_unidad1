@@ -14,7 +14,7 @@ el nivel de esperanza de vida aumenta si el gasto en salud amenta
 utilizar media para rellenar campos nulos ayuda a mitigar el sesgo en el analisis del dataset
 
 
-# [Nombre de tu Taller o Proyecto]
+
 
 Este repositorio contiene la resolución del taller desarrollado en un entorno de **Jupyter Notebook**, enfocado en la manipulación y análisis de datos.
 
