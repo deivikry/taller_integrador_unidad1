@@ -2,17 +2,17 @@
 
 
 -  Título del proyecto
-  :Taller Integrador
+- :Taller Integrador
 -  Tu nombre
-Deivi Andrey Rodriguez Hernandez
--  Descripción del dataset (qué contiene, cuántos países, fuente)
-  El dataset **`salud_mundial.csv`**, que contiene indicadores de salud de **159 países**.
+-  Deivi Andrey Rodriguez Hernandez
+-  Descripción del dataset 
+- El dataset **`salud_mundial.csv`**, que contiene indicadores de salud de **159 países**.
 
 
 -  Al menos 3 hallazgos o conclusiones del análisis
-el nivel de esperanza de vida aumenta si el gasto en salud amenta
-utilizar media para rellenar campos nulos ayuda a mitigar el sesgo en el analisis del dataset
-
+-el nivel de esperanza de vida aumenta si el gasto en salud amenta
+-utilizar media para rellenar campos nulos ayuda a mitigar el sesgo en el analisis del dataset
+- 39 paises son los que tienen vacunacion por arriba del 90% 
 
 
 
