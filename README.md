@@ -4,7 +4,7 @@
 -  Título del proyecto
   :Taller Integrador
 -  Tu nombre
-Deivi ANdrey ROdriguez Hernandez
+Deivi Andrey Rodriguez Hernandez
 -  Descripción del dataset (qué contiene, cuántos países, fuente)
   El dataset **`salud_mundial.csv`**, que contiene indicadores de salud de **159 países**.
 
